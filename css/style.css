@@ -17563,7 +17563,7 @@ span.sr-only {
 }
 @media only screen and (max-width: 575px) {
   .backto-top > div {
-    bottom: 30px;
+    bottom: 60px;
   }
 }
 .backto-top > div:hover::after {
